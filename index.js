@@ -1,2 +1,2 @@
 module.exports = 42;
-exports.ping = "pong"
+module.exports.ping = "pong"
