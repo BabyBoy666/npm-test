@@ -1,0 +1,24 @@
+{
+  "name": "javascript_library-320",
+  "version": "1.0.0",
+  "description": "my test library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BabyBoy666/npm-test.git"
+  },
+  "keywords": [
+    "library",
+    "javascript",
+    "test"
+  ],
+  "author": "Baby_Boy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BabyBoy666/npm-test/issues"
+  },
+  "homepage": "https://github.com/BabyBoy666/npm-test#readme"
+}
